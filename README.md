@@ -5,7 +5,7 @@ A 3rd Year Computer Science student at the [University of Nottingham](https://cs
 Take a look at a few of my projects listed below, and don't hesitate to get in touch with me.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cwainwright&count_private=true&show_icons=true&hide_border=true&theme=auto"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwainwright&hide_border=true&theme=auto"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwainwright&count_private=true&hide_border=true&theme=auto"/>
 
 <!--
 **cwainwright/cwainwright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
