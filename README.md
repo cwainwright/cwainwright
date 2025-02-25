@@ -1,6 +1,6 @@
 ## Hi there, I'm Chris 👋
 
-I'm currently a Computer Science student at the University of Nottingham(https://cs.nott.ac.uk)
+A 3rd Year Computer Science student at the [University of Nottingham](https://cs.nott.ac.uk)
 
 Take a look at a few of my projects listed below, and don't hesitate to get in touch with me.
 
