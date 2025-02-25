@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Chris 👋
+
+I'm currently a Computer Science student at the University of Nottingham(https://cs.nott.ac.uk)
+
+Take a look at a few of my projects listed below, and don't hesitate to get in touch with me.
+
+Email ``
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cwainwright&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwainwright&layout=compact&card_width=250&hide_border=true&theme=dark"/>
 
 <!--
 **cwainwright/cwainwright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
