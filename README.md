@@ -1,6 +1,6 @@
-## Hi there, I'm Chris 👋
+## Hi there, I'm Chris (he/him) 👋
 
-A 3rd Year Computer Science student at the [University of Nottingham](https://cs.nott.ac.uk)
+A Junior iOS Developer at [atomic](https://atomicmedia.co.uk)
 
 Take a look at a few of my projects listed below, and don't hesitate to get in touch with me.
 
