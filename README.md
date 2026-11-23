@@ -1,7 +1,5 @@
 ## Hi there, I'm Chris (he/him) 👋
 
-An iOS Developer at [atomic](https://atomicmedia.co.uk)
-
 Take a look at a few of my projects listed below, and don't hesitate to get in touch with me.
 
 <!--
